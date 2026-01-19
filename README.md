@@ -1,6 +1,4 @@
 # hello-cpp
-hello-cpp
-
 # 1. 프로젝트 생성 방법
 
 1. [MinGW 사이트](https://www.msys2.org/)에서 `MinGW`를 다운로드
