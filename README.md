@@ -1,5 +1,5 @@
-# hello-cplusplus
-hello-cplusplus
+# hello-cpp
+hello-cpp
 
 # 1. 프로젝트 생성 방법
 
